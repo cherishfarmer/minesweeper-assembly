@@ -15,3 +15,6 @@ A classic **Minesweeper** game implemented entirely in **Motorola 68000 Assembly
 3. **Run the program**  
    - Click **“Play”** ▶️ on the debugger toolbar to start the game.  
    - Follow the on-screen prompts to reveal tiles and avoid mines!
+
+
+<img width="900" height="694" alt="minesweeper-ss" src="https://github.com/user-attachments/assets/7d2441e0-8c88-4b32-bdab-bac41eaf67b6" />
